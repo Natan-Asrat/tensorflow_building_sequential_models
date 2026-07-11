@@ -11,6 +11,24 @@
     - Sneaker
     - Bag
     - Ankle boot
+  
+# Analysis
+## Training History
+
+![](./Training%20History.png)
+
+## Loss vs Epochs
+
+![](./plot_loss_v_epochs.png)
+
+## Accuracy vs Epochs
+
+![](./plot_accuracy_v_epochs.png)
+
+## MAE vs Epochs
+
+![](./plot_mae_v_epochs.png)
+
 # Libraries Used
  - Tensorflow Keras
  - Matplotlib
