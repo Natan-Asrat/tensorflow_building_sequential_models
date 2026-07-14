@@ -1,4 +1,7 @@
 ![](./bag_pred.JPG)
+
+Blog: ![](https://natanasrat.com/blog/building-sequential-models-in-tensorflow/)
+
 # Project Description
  - In this project I have compiled and fit a CNN model that recognizes images from the following labels
     - T-shirt/top
